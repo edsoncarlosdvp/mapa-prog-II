@@ -1,4 +1,4 @@
-# mapa-prog-II
+# Sistema de Controle de Filas
 MAPA da disciplina de Programação  II 2020 da Unicesumar
 
 A Orientação a Objetos está presente em diversos programas que utilizamos em nosso cotidiano. Muitas vezes, nem a percebermos. Você viu no estudo da disciplina Programação II que podemos modelar diversos problemas em termos de classes e objetos.
