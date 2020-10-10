@@ -1,5 +1,5 @@
 # mapa-prog-II
- MAPA da disciplina de Programação  II 2020 da Unicesumar
+MAPA da disciplina de Programação  II 2020 da Unicesumar
 
 A Orientação a Objetos está presente em diversos programas que utilizamos em nosso cotidiano. Muitas vezes, nem a percebermos. Você viu no estudo da disciplina Programação II que podemos modelar diversos problemas em termos de classes e objetos.
 Nesta Atividade Mapa, você deve desenvolver um sistema de controle de filas de um banco fictício utilizando a linguagem Java. Considere que neste banco há apenas uma agência e, esta agência, possui 4 caixas de atendimento.
@@ -15,9 +15,9 @@ O trabalho que você deve desenvolver terá 3 etapas:
 
 1. Construção da interface, de acordo com o modelo abaixo. Não precisa ficar igual, mas precisa ter os mesmos elementos.
 
+![alt text](https://github.com/edsoncarlos/mapa-prog-II/blob/master/img-mapa.png?raw=true)
 
-
-​2. Criação da fila de atendimento.
+2. Criação da fila de atendimento.
 
 Semelhante às máquinas de geração de senhas, há três botões para os clientes: Preferencial, Rápido e Comum. O cliente aperta o botão de acordo com o seu atendimento, sua senha é gerada e colocada em uma fila.
 
