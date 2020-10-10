@@ -15,7 +15,7 @@ O trabalho que você deve desenvolver terá 3 etapas:
 
 1. Construção da interface, de acordo com o modelo abaixo. Não precisa ficar igual, mas precisa ter os mesmos elementos.
 
-![alt text](https://github.com/edsoncarlos/mapa-prog-II/blob/master/img-mapa.png?raw=true)
+![alt text](https://github.com/edsoncarlos/mapa-prog-II/blob/main/img-mapa.png?raw=true)
 
 2. Criação da fila de atendimento.
 
